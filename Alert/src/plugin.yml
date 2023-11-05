@@ -1,0 +1,6 @@
+main: cmd.me.Main
+name: Alert
+author: Myslitel
+version: 1.0
+commands:
+ alert:
